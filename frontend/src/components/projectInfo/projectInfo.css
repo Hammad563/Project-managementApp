@@ -1,0 +1,44 @@
+.projectHeader{
+    padding: 5px;
+    margin-top: 20px;
+    text-transform: capitalize;
+}
+.projectPtag{
+    font-size: 14px;
+    color: rgb(87, 87, 82);
+    text-transform: capitalize;
+}
+
+.projectButtons{
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.addBtn {
+    background-color: #005252;
+    color: white;
+  }
+  
+.addBtn:hover {
+    background-color: white;
+    /* #3feee6 */
+    color: #005252;
+    border: 1px solid #005252;
+}
+
+
+.taskContainer{
+    height: 100vh;
+  overflow: auto;
+  background-color: rgb(181, 199, 199);
+  text-transform: capitalize;
+}
+
+.tasksHeader{
+    font-size: 32px; 
+    padding: 5px;  
+    color: rgb(61, 61, 71);
+    border-bottom: 2px solid rgb(83, 81, 81);
+    text-align: center;
+    text-transform: capitalize;
+}

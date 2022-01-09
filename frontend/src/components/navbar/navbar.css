@@ -1,0 +1,18 @@
+
+.navbarTitle{
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 30px;
+    color: black;
+    font-size: 38px;
+}
+
+.navLinks{
+    text-decoration: none;
+    color: rgb(239, 239, 243);
+    font-size: 18px;
+}
+
+.nav-bg {
+    background-color: #8aafaf;
+  }

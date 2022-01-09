@@ -1,0 +1,49 @@
+/*
+ * Sidebar
+ */
+.sidebar{
+    position: fixed;
+    z-index: 100;
+    padding: 50px 0 0;
+    color: black;
+    text-transform: capitalize;
+}
+
+.nav-link{
+    color: black;
+    padding: 10px;
+    
+}
+.sidebar-heading{
+   color: rgb(9, 78, 95);
+   text-transform: capitalize;
+}
+
+.sideBarItem{
+
+}
+.sidebarIcon{
+    margin-bottom: 5px;
+}
+
+
+
+
+.dashTitle{
+    padding: 10px;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 38px;
+}
+
+
+.projectLink{
+    text-decoration: none;
+    color: black;
+    text-transform: capitalize;
+}
+
+
+
+
+

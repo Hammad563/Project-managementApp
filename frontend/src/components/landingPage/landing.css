@@ -1,0 +1,24 @@
+.page-body{
+    background-color: #F4F5F7;
+}
+.linkText{
+    text-decoration: none;
+  color: rgb(116, 112, 112);
+  margin-bottom: 10px;
+}
+
+.page-header{
+    margin-top: 4rem;
+    font-size: 1.25rem;
+}
+
+.image-landing{
+    padding: 10px;
+    margin-top: 10px;
+    width: 200px;
+    height: 200px;
+    margin-left: 300px;
+}
+.image-landing img{
+    width: 500px;
+}
